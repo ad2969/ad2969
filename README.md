@@ -1,6 +1,6 @@
 <h2>Hey there! I'm Clarence 👋<br>An Electrical Engineering Student and Software Developer</h2>
 
-<h4>I’m an engineering student interested in utilizing innovative technology to improve the human quality of life. In other words, I really like building things. Feel free to <a href="https://ad2969.com/contact">contact me</a> about any opportunities or to collaborate on projects!</h4>
+<h4>I’m an engineering student interested in utilizing innovative technology to improve our quality of life. In other words, I really like building things. Feel free to <a href="https://ad2969.com/contact">contact me</a> about any opportunities or to collaborate on projects!</h4>
 
 - 📚 Electrical Engineering student at UBC
 - 🔭 Experienced in Fullstack Development and Product Development
