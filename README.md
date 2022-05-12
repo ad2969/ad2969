@@ -16,4 +16,4 @@ Feel free to <a href="https://ad2969.com/contact">contact me</a> about any oppor
 <img width="340" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ad2969&count_private=true&show_icons=true&layout=compact&line_height=27" alt="my-lang-stats" />
 </p>
 
-<p>-- Currently working on a <a href="https://github.com/ad2969/ubc-coursecrawler">course-scraping project</a>, ❗contributions are welcome❗</p>
+<p>-- Currently working on ____?</p>
