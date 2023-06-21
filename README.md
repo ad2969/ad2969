@@ -3,9 +3,9 @@
 <p><strong>I am an Electrical Engineering Student and Software Developer</strong>. I listen to podcasts and pet dogs for fun 🐶! <br/>
 Feel free to <a href="https://clarenceadrian.netlify.app/contact">contact me</a> about any opportunities or to collaborate on projects!</p>
 
-- 📚 Electrical Engineering student at UBC
+- 📚 Electrical Engineering from UBC
 - 🔭 Experienced in Fullstack Development and Product Development
-- 💬 Currently interested in Human-Computer Interaction, Applications of Blockchain, and Product Design
+- 💬 Currently interested in Human-Computer Interaction, Product Design, and the [future of AI](https://futureoflife.org/open-letter/pause-giant-ai-experiments/)
 - 💼 Previously at <a href="https://semios.com/">Semios</a>, <a href="https://skyrocket.is/">Skyrocket Digital</a>
 <!-- - 🌱 Currently learning -->
 
